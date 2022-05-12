@@ -1,0 +1,29 @@
+{
+    "name": "@sillyangel/sillyapi",
+    "version": "0.0.1",
+    "description": "my personal api",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\""
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sillyangel/sillyapi.git"
+    },
+    "keywords": [
+      "Bananajs"
+    ],
+    "author": {
+      "name": "sillyangel",
+      "email": "support@banana-corp.tk",
+      "url": "https://sillyangel.github.io/sillyapi"
+    },
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/sillyangel/sillyapi/issues"
+    },
+    "homepage": "https://github.com/sillyangel/sillyapi#readme",
+    "dependencies": {
+      "npm": "^8.8.0"
+    }
+  }
