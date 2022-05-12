@@ -1,7 +1,7 @@
 modules:
   - any: ["modules/**/*"]
 
-Documentation:
+documentation:
   - any: ["**/*.md"]
 
 .github:
