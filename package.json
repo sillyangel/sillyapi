@@ -24,6 +24,6 @@
     },
     "homepage": "https://github.com/sillyangel/sillyapi#readme",
     "dependencies": {
-      "npm": "^8.8.0"
+      "npm": "^9.7.2"
     }
   }
